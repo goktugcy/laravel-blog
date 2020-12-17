@@ -3,7 +3,8 @@
 </p>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
 <div>
-<img src="https://img.shields.io/badge/-goktugceyhan-black?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://linkedin.com/in/goktugceyhan" alt="Linkedin Badge">
+    <a href="https://linkedin.com/in/goktugceyhan">
+<img src="https://img.shields.io/badge/-goktugceyhan-black?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://linkedin.com/in/goktugceyhan" alt="Linkedin Badge"></a>
 <img src="https://img.shields.io/badge/-@goktug_cy-blue?style=for-the-badge&amp;logo=Twitter&amp;logoColor=white&amp;link=https://twitter.com/goktug_cy" alt="Twitter Badge">
 <img src="https://img.shields.io/badge/-@goktugcy-purple?style=for-the-badge&amp;logo=instagram&amp;logoColor=white&amp;link=https://instagram.com/goktugcy" alt="Instagram Badge">
 </div>
