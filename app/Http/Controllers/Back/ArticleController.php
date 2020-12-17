@@ -121,7 +121,7 @@ class ArticleController extends Controller
         {
             $imageName=Str::slug($request->title).'.'.$request->image->getClientOriginalExtension();
             $request->image->move(public_path('uploads'),$imageName);
-            $page->image='/uploads/'.$imageName;
+            $article->image='/uploads/'.$imageName;
         }
         $article->save();
         toastr()->success('Başarılı!', 'Sayfa başarıyla güncellendi.');
