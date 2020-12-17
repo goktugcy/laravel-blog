@@ -7,8 +7,8 @@
 <img src="https://img.shields.io/badge/-goktugceyhan-black?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://linkedin.com/in/goktugceyhan" alt="Linkedin Badge"></a>
     <a href="https://twitter.com/goktug_cy">
 <img src="https://img.shields.io/badge/-@goktug_cy-blue?style=for-the-badge&amp;logo=Twitter&amp;logoColor=white&amp;link=https://twitter.com/goktug_cy" alt="Twitter Badge"></a>
-    <a href="https://instagram.com/goktugcy">
-<img src="https://img.shields.io/badge/-@goktugcy-purple?style=for-the-badge&amp;logo=instagram&amp;logoColor=white&amp;link=https://instagram.com/goktugcy" alt="Instagram Badge"></a>
+    <a href="https://instagram.com/goktug.cy">
+<img src="https://img.shields.io/badge/-@goktug.cy-purple?style=for-the-badge&amp;logo=instagram&amp;logoColor=white&amp;link=https://instagram.com/goktugcy" alt="Instagram Badge"></a>
 </div>
 
 
