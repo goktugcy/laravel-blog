@@ -1,7 +1,7 @@
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a>
 </p>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
 <div>
 <img src="https://img.shields.io/badge/-goktugceyhan-black?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://linkedin.com/in/goktugceyhan" alt="Linkedin Badge">
 <img src="https://img.shields.io/badge/-@goktug_cy-blue?style=for-the-badge&amp;logo=Twitter&amp;logoColor=white&amp;link=https://twitter.com/goktug_cy" alt="Twitter Badge">
