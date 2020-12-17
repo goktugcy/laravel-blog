@@ -123,7 +123,7 @@ class ArticleController extends Controller
             $request->image->move(public_path('uploads'),$imageName);
             $page->image='/uploads/'.$imageName;
         }
-        $page->save();
+        $article->save();
         toastr()->success('Başarılı!', 'Sayfa başarıyla güncellendi.');
         return redirect()->route('admin.page.index');
     }
